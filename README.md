@@ -1,5 +1,6 @@
 # BERT&ERNIE MNLP Homework 1
-For a better understanding of the project scope, refer to the [report](BERT_ERNIE_report.pdf)
+For a better understanding of the project scope, refer to the [report](BERT_ERNIE_report.pdf).  
+
 The directory contains the following files:
 
 - NoLM_method.ipynb
